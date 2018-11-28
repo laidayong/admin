@@ -1,2 +1,2 @@
 # admin
-Administration system based on Vue and Springboot, 
+Administration system based on Vue and Springboot
